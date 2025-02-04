@@ -9,8 +9,8 @@ Todo application for data-poem
 
 # Frontend 
 ## install requiremnts
-  # axios
-  # bootstrap
+  #### axios
+  #### bootstrap
 
 run frontend using : npm start
 
